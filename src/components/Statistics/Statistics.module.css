@@ -1,0 +1,26 @@
+.statSection {
+    display: flex;
+    gap: 30px;
+    padding: 20px 40px;
+    background-color: rgba(152, 35, 255, 0.516);
+    border: 1px solid;
+    border-color: rgb(42, 0, 78);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.sectionName {
+
+}
+.statName {
+display: flex;
+flex-direction: column;
+text-align: center;
+border-color: rgb(42, 0, 78);
+border: 1px solid;
+padding: 10px;
+border-radius: 10px;
+font-weight: 900;
+}
+.statValue {
+font-size: 32px;
+}
